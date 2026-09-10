@@ -15,4 +15,4 @@ The primary objective of this machine learning project is to predict student aca
 ## 4. Methodology Diagram
 Below is the machine learning workflow diagram for this project:
 
-![Methodology Diagram](methodology_diagram.png)
+![Methodology Diagram](Code_Image.png)
